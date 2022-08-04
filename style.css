@@ -52,7 +52,7 @@ button:disabled {
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
   .container {
-    background-position: center left;
+    background-position: 30% center;
     background-size: cover;
   }
 
