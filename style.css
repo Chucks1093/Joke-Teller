@@ -52,11 +52,11 @@ button:disabled {
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
   .container {
-    background-position: 30% center;
+    background-position: center center;
     background-size: cover;
   }
 
   button {
-    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 30px 20px rgba(88, 87, 87, 0.13);
   }
 }
